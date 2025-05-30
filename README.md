@@ -1,1 +1,2 @@
 # Phonetic-Flow-System
+Phonetic Flow System — An AI-powered web application that integrates Speech-to-Text, Text-to-Speech, and Sentiment Analysis into an interactive interface. Built with Python, Flask, and modern web technologies, it supports modular architecture, facial emotion recognition, and cross-platform deployment. Designed for intelligent, voice-based interaction with future-ready features like real-time translation and speaker ID.
